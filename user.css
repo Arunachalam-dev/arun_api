@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+    
+        
+}
+
+
+.api{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: red;
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20240104/pngtree-realistic-paper-cut-background-with-abstract-black-friday-decoration-and-textured-image_13884784.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* width: 100%;
+    height: 100%; */
+    font-family: "Eater", serif;
+        font-weight: 700;
+        font-style: normal;
+        font-size: 140%;
+        color: purple;
+}
+.user{
+    background-image: url(https://i.pinimg.com/474x/b7/ac/7d/b7ac7d916e12a49e5ac31a74f0e24256.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left:50%;
+    border: 2px solid black;
+    width: 35%;
+    height: 100vh;
+    /* padding: 20px; */
+    text-align: center;
+    border-radius: 10%;
+    /* font-family: "Eater", serif;
+        font-weight: 700;
+        font-style: normal;
+        font-size: 140%;
+        color: purple; */
+    
+}
+.detail{
+    
+    
+    text-align:justify;
+    margin-left: 10%;
+padding: 8%; 
+}
+#arun{
+    height: 10%;
+    width: 20%;
+    background-color: black;
+    border-radius:40%;
+    color: azure;
+    
+}
+.user h1{
+    color: black;
+}
